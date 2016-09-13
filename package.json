@@ -1,21 +1,21 @@
 {
-  "name": "movie-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "bootstrap": "^3.3.7",
-    "express": "^4.14.0",
-    "jade": "^1.11.0",
-    "jquery": "^3.1.0",
-    "moment": "^2.15.0",
-    "mongoose": "^4.6.0",
-    "underscore": "^1.8.3"
-  }
+    "name": "movie-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "bootstrap": "^3.3.7",
+        "express": "^4.14.0",
+        "jade": "^1.11.0",
+        "jquery": "^3.1.0",
+        "moment": "^2.15.0",
+        "mongoose": "^4.6.0",
+        "underscore": "^1.8.3"
+    }
 }
